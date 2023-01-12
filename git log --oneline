@@ -1,0 +1,35 @@
+[33mcommit b64e2b45080151b40a83391420dc0d6446f2cea0[m[33m ([m[1;36mHEAD -> [m[1;32mhello-branch[m[33m)[m
+Author: Fiefiez <seanzeilinga07@gmail.com>
+Date:   Wed Jan 11 10:41:58 2023 +0200
+
+    Fixed Readme file with updated template.
+
+[33mcommit 60346a48494c531b3e194e4587178b692ea4142f[m[33m ([m[1;31morigin/hello-branch[m[33m)[m
+Author: Fiefiez <seanzeilinga07@gmail.com>
+Date:   Tue Jan 10 19:01:16 2023 +0200
+
+    Add style.css  file
+
+[33mcommit 0b3b491398f17445bc61fdac6ae2f3d358a210c6[m
+Author: Fiefiez <seanzeilinga07@gmail.com>
+Date:   Tue Jan 10 18:57:35 2023 +0200
+
+    Add style.css  file
+
+[33mcommit d23cbe4f209442eb75387c3292601de876e6c9d6[m
+Author: Fiefiez <seanzeilinga07@gmail.com>
+Date:   Tue Jan 10 18:56:45 2023 +0200
+
+    Add Index.html file
+
+[33mcommit b36f2bf620b36cf96229332df7e2c3b6d718683e[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Fiefiez <seanzeilinga07@gmail.com>
+Date:   Tue Jan 10 18:53:36 2023 +0200
+
+    About project
+
+[33mcommit 9df453e6dd047ef0c543b09966c05ede77ecabe4[m
+Author: Fiefiez <seanzeilinga07@gmail.com>
+Date:   Tue Jan 10 18:51:52 2023 +0200
+
+    add linters
